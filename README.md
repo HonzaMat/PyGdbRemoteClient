@@ -1,7 +1,7 @@
 # Simple GDB Remote client library for Python
 
 ![Code Quality Workflow](https://github.com/HonzaMat/PyGdbRemoteClient/actions/workflows/code_quality.yml/badge.svg)
-![Unit Tests Workflow](https://github.com/HonzaMat/PyGdbRemoteClient/actions/workflows/unit_tests.yml/badge.svg)
+&nbsp; ![Unit Tests Workflow](https://github.com/HonzaMat/PyGdbRemoteClient/actions/workflows/unit_tests.yml/badge.svg)
 
 ## What is GDB Remote Protocol?
 

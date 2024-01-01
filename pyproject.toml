@@ -1,0 +1,18 @@
+[project]
+name = "PyGdbRemoteClient"
+version = "0.0.1"
+authors = [
+  { name="Jan Matyas", email="info@janmatyas.net" },
+]
+description = "GDB Remote client library for Python"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/HonzaMat/PyGdbRemoteClient"
+Issues = "https://github.com/HonzaMat/PyGdbRemoteClient/issues"

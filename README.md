@@ -1,5 +1,8 @@
 # Simple GDB Remote client library for Python
 
+![Code Quality Workflow](https://github.com/HonzaMat/PyGdbRemoteClient/actions/workflows/code_quality.yml/badge.svg)
+&nbsp; ![Unit Tests Workflow](https://github.com/HonzaMat/PyGdbRemoteClient/actions/workflows/unit_tests.yml/badge.svg)
+
 ## What is GDB Remote Protocol?
 
 *GDB Remote Protocol* (also called *Remote Serial Protocol*, RSP) is a protocol used by [GDB](https://www.sourceware.org/gdb/) (or similar debuggers) for so called *remote debugging* &mdash; for debugging of processes running on a **different** system than where GDB itself runs.

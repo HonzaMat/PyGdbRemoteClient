@@ -82,7 +82,7 @@ def git_commit(msg) -> None:
 
 def git_tag(tag_name) -> None:
     """Make a git tag."""
-    subprocess.check_call(["git", "tag", tag_name])
+    subprocess.check_call(["git", "tag", tag_name, "-s", "-m", ""])
 
 
 def build_pkg() -> None:

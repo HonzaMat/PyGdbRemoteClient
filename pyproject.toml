@@ -1,6 +1,6 @@
 [project]
 name = "PyGdbRemoteClient"
-version = "0.1.0"
+version = "0.2.0-dev"
 authors = [
   { name="Jan Matyas", email="info@janmatyas.net" },
 ]

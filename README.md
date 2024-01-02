@@ -14,9 +14,9 @@ Remote debugging (and thus GDB Remote Protocol) come to play in cases when the t
 
 ## What is PyGdbRemoteClient?
 
-`PyGdbRemoteClient` is a Python library that allows programs to talk to the remote stubs (as though they were GDB). 
+`PyGdbRemoteClient` is a Python library that allows programs to talk to the remote stubs (in the same manner as GDB does that). 
 
-The library was developed for for testing of [OpenOCD](https://www.openocd.org/), which is also a stub from the GDB point of view. However, it may be useful also in other cases when a Python program needs to communicate with a GDB stub.
+The library was developed for for testing of [OpenOCD](https://www.openocd.org/), which is also a remote stub from the GDB point of view. However, it may be useful also in other cases when a Python program needs to communicate with a GDB stub.
 
 
 ## Quick start
